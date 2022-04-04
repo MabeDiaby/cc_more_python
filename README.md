@@ -57,6 +57,7 @@ For example:
 ```python
 def split_strings(s):
     # your lovely code goes here!
+
     
 
 print(split_strings('abc'))
